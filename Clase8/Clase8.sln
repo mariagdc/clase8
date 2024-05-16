@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "verificarPrimo", "verificarPrimo\verificarPrimo.csproj", "{EE8A8BA4-DBC8-4B8F-876E-658B2F68D5D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generarPrimo", "generarPrimo\generarPrimo.csproj", "{7EF743AB-4D79-4126-BF86-BC0E37D566B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EE8A8BA4-DBC8-4B8F-876E-658B2F68D5D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE8A8BA4-DBC8-4B8F-876E-658B2F68D5D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE8A8BA4-DBC8-4B8F-876E-658B2F68D5D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EF743AB-4D79-4126-BF86-BC0E37D566B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF743AB-4D79-4126-BF86-BC0E37D566B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EF743AB-4D79-4126-BF86-BC0E37D566B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EF743AB-4D79-4126-BF86-BC0E37D566B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
