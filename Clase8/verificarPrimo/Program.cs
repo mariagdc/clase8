@@ -34,7 +34,7 @@ namespace verificarPrimo
             bool esPrimo = false;
             if (divisible <= 2)
             {
-                Console.WriteLine("El numero es primo");
+                esPrimo = true;
             }
             else
             {
@@ -42,6 +42,6 @@ namespace verificarPrimo
 
             }
             
-            if ()
+            ()
     }
 }
